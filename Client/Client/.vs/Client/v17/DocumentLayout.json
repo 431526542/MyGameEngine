@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Study1\\MyGameEngine\\Client\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client\\Client\\Project1\\Source\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinMain.cpp",
+              "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client\\Client\\Project1\\Source\\WinMain.cpp",
+              "RelativeDocumentMoniker": "Project1\\Source\\WinMain.cpp",
+              "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client\\Client\\Project1\\Source\\WinMain.cpp",
+              "RelativeToolTip": "Project1\\Source\\WinMain.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T05:28:08.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
