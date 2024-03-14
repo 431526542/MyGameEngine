@@ -1,7 +1,7 @@
 #include <Windows.h>
 
 #define MAX_NAME_STRING 265 // WindowClass의 최대 길이를 설정해 놓는다.
-#define HInstance() GetModuleHandle(NULL);
+#define HInstance() GetModuleHandle(NULL)
 
 // 밑에 wcex.lpszClassName, 윈도우 이름을 설정을 위한 변수이다. 다음과 같이 설정해 윈도우 이름 변경에 사용하도록 할것
 WCHAR		WindowClass[MAX_NAME_STRING]; 
@@ -10,7 +10,7 @@ WCHAR		WindowTitle[MAX_NAME_STRING];
 INT			WindowWidth;
 INT			WindowHeight;
 
-int CALLBACK WinMain(HINSTANCE, HINSTANCE , LPSTR, INT)
+int CALLBACK WinMain(HINSTANCE, HINSTANCE, LPSTR, INT)
 {
 	//Initialize Global Variables
 	wcscpy_s(WindowClass, TEXT("TutorialOneClass"));
@@ -35,18 +35,33 @@ int CALLBACK WinMain(HINSTANCE, HINSTANCE , LPSTR, INT)
 	wcex.hIcon = LoadIcon(0, IDI_APPLICATION); //idi 응용 프로그램을 입력하는 순간 이 내용으로 다시 돌아오겠다.
 	wcex.hIconSm = LoadIcon(0, IDI_APPLICATION); //..
 	wcex.lpszClassName = WindowClass;
+	wcex.lpszMenuName = nullptr;
 	wcex.hInstance = HInstance(); //지금 실행하는 인스턴스를 찾는다.
 	wcex.lpfnWndProc = DefWindowProc; //창이 어떻게 작동할지에 대한 지침 즉, 크기 변경 및 닫거나 종료하는 특정 명열을 포함하도록 재정의
 	RegisterClassEx(&wcex);//레지스터 클래스 등록, 예시
 
 	//Create and Display our Window
-	HWND hWnd = CreateWindow(WindowClass, WindowTitle, WS_OVERLAPPEDWINDOW, 
+	HWND hWnd = CreateWindow(WindowClass, WindowTitle, WS_OVERLAPPEDWINDOW,
 		CW_USEDEFAULT, 0, WindowWidth, WindowHeight, nullptr, nullptr, HInstance(), nullptr);
+	if (!hWnd)
+	{
+		MessageBox(0, L"Failed to Create Window!.", 0, 0);
+		return 0;
+	}
 
 	ShowWindow(hWnd, SW_SHOW);
 
-	
 	//Listen for Message events
+
+	MSG msg = { 0 };
+	while (msg.message != WM_QUIT)
+	{
+		if (PeekMessage(&msg, 0, 0, 0, PM_REMOVE))
+		{
+			TranslateMessage(&msg);
+			DispatchMessage(&msg);
+		}
+	}
 
 	return 0;
 }
