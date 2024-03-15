@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{d973a0d3-816c-45be-8700-5807a40edb85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Public">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source\Private">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source\pch">
+      <UniqueIdentifier>{f1706d41-76a4-46d6-aa75-25f471b4e6d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Private\Platform">
+      <UniqueIdentifier>{ca853c2c-5972-4f6e-b0e9-03626d6c5f6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Private\Platform\WIN32">
+      <UniqueIdentifier>{ed39594f-f5e5-4e8d-a2d7-70192dd3a110}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Public\Platform">
+      <UniqueIdentifier>{99850637-8fea-4545-8c8d-805d25c0d97c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Public\Platform\WIN32">
+      <UniqueIdentifier>{1fb31b07-1f08-46ff-a9f4-292a05e23667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Private\Common">
+      <UniqueIdentifier>{54d2ce77-1fa0-4de4-bcb4-fc2a5656d675}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Public\Common">
+      <UniqueIdentifier>{b5ee4d6d-53f7-4437-b40d-d62afc512855}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Private\Core">
+      <UniqueIdentifier>{612eee95-af86-4224-93e1-0e4cbf7ed6e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Public\Core">
+      <UniqueIdentifier>{aa1081eb-e1a2-48d0-a182-1248180fe734}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\MyGameEngine.cpp">
+      <Filter>Source\pch</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Platform\WIN32\iApplication.cpp">
+      <Filter>Source\Private\Platform\WIN32</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Common\Logger.cpp">
+      <Filter>Source\Private\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Core\PerGameSettings.cpp">
+      <Filter>Source\Private\Core</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\MyGameEngine.h">
+      <Filter>Source\pch</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Platform\WIN32\iApplication.h">
+      <Filter>Source\Public\Platform\WIN32</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Platform\WIN32\WinEntry.h">
+      <Filter>Source\Public\Platform\WIN32</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Common\Logger.h">
+      <Filter>Source\Public\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Core\PerGameSettings.h">
+      <Filter>Source\Public\Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -6,3 +6,5 @@
 
 #define MAX_NAME_STRING 265
 #define HInstance() GetModuleHandle(NULL)
+
+#include "MyGameEngine.h"

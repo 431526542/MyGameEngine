@@ -2,7 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\AUser\Documents\Unreal Projects\MyGameEngine\Client3\Client\Build\Project1\Debug\Project1.exe</FullPath>
+      <FullPath>D:\Work\Study1\MyGameEngine\Client3\Client\Build\MyGameEngine\Debug\MyGameEngine.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Work\Study1\MyGameEngine\Client3\Client\Build\Project1\Debug\Project1.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
