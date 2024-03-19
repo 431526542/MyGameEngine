@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Core\\PerGameSettings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Core\\PerGameSettings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Core\\PerGameSettings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Core\\PerGameSettings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Common\\Logger.h||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Common\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Common\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Platform\\WIN32\\WinEntry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,16 +35,24 @@
       "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\MyGameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Core\\PerGameSettings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Core\\PerGameSettings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Platform\\WIN32\\iApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Platform\\WIN32\\iApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Core\\PerGameSettings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Core\\PerGameSettings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Platform\\WIN32\\iApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Platform\\WIN32\\iApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{434C3F1A-5DE8-4323-B797-FCFAEA12B751}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Platform\\WIN32\\iApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6615866F-5240-4131-B233-61363DC4F770}|MyGameEngine\\MyGameEngine.vcxproj|solutionrelative:MyGameEngine\\Source\\Platform\\WIN32\\iApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +62,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 280,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "Logger.cpp",
+              "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Logger.cpp",
+              "RelativeDocumentMoniker": "MyGameEngine\\Source\\Common\\Logger.cpp",
+              "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Logger.cpp",
+              "RelativeToolTip": "MyGameEngine\\Source\\Common\\Logger.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T01:55:51.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.h",
+              "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Logger.h",
+              "RelativeDocumentMoniker": "MyGameEngine\\Source\\Common\\Logger.h",
+              "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Logger.h",
+              "RelativeToolTip": "MyGameEngine\\Source\\Common\\Logger.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-15T07:12:04.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Time.h",
+              "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Time.h",
+              "RelativeDocumentMoniker": "MyGameEngine\\Source\\Common\\Time.h",
+              "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Time.h",
+              "RelativeToolTip": "MyGameEngine\\Source\\Common\\Time.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-19T01:36:11.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Application.h",
               "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\Application.h",
               "RelativeDocumentMoniker": "Project1\\Source\\Application.h",
@@ -71,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "iApplication.cpp",
               "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Platform\\WIN32\\iApplication.cpp",
               "RelativeDocumentMoniker": "MyGameEngine\\Source\\Platform\\WIN32\\iApplication.cpp",
@@ -79,8 +126,7 @@
               "RelativeToolTip": "MyGameEngine\\Source\\Platform\\WIN32\\iApplication.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-15T08:02:29.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T08:02:29.231Z"
             },
             {
               "$type": "Document",
@@ -97,52 +143,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "PerGameSettings.cpp",
               "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Core\\PerGameSettings.cpp",
               "RelativeDocumentMoniker": "MyGameEngine\\Source\\Core\\PerGameSettings.cpp",
               "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Core\\PerGameSettings.cpp",
               "RelativeToolTip": "MyGameEngine\\Source\\Core\\PerGameSettings.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-15T07:54:19.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "PerGameSettings.h",
               "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Core\\PerGameSettings.h",
               "RelativeDocumentMoniker": "MyGameEngine\\Source\\Core\\PerGameSettings.h",
               "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Core\\PerGameSettings.h",
               "RelativeToolTip": "MyGameEngine\\Source\\Core\\PerGameSettings.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-15T07:54:07.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "pch.h",
               "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\pch.h",
               "RelativeDocumentMoniker": "Project1\\Source\\pch.h",
               "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\pch.h",
               "RelativeToolTip": "Project1\\Source\\pch.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-15T07:30:25.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Application.cpp",
               "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\Application.cpp",
               "RelativeDocumentMoniker": "Project1\\Source\\Application.cpp",
               "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\Project1\\Source\\Application.cpp",
               "RelativeToolTip": "Project1\\Source\\Application.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-15T07:30:17.233Z",
               "EditorCaption": ""
@@ -155,7 +201,7 @@
               "RelativeDocumentMoniker": "MyGameEngine\\Source\\Platform\\WIN32\\WinEntry.h",
               "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Platform\\WIN32\\WinEntry.h",
               "RelativeToolTip": "MyGameEngine\\Source\\Platform\\WIN32\\WinEntry.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-15T07:23:49.932Z",
               "EditorCaption": ""
@@ -168,35 +214,22 @@
               "RelativeDocumentMoniker": "MyGameEngine\\Source\\MyGameEngine.h",
               "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\MyGameEngine.h",
               "RelativeToolTip": "MyGameEngine\\Source\\MyGameEngine.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-15T07:17:38.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Logger.cpp",
-              "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Logger.cpp",
-              "RelativeDocumentMoniker": "MyGameEngine\\Source\\Common\\Logger.cpp",
-              "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Logger.cpp",
-              "RelativeToolTip": "MyGameEngine\\Source\\Common\\Logger.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAASAAAA",
+              "DocumentIndex": 5,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Time.cpp",
+              "RelativeDocumentMoniker": "MyGameEngine\\Source\\Common\\Time.cpp",
+              "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Time.cpp",
+              "RelativeToolTip": "MyGameEngine\\Source\\Common\\Time.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAtwDsAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-15T07:12:19.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Logger.h",
-              "DocumentMoniker": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Logger.h",
-              "RelativeDocumentMoniker": "MyGameEngine\\Source\\Common\\Logger.h",
-              "ToolTip": "D:\\Work\\Study1\\MyGameEngine\\Client4\\Client\\MyGameEngine\\Source\\Common\\Logger.h",
-              "RelativeToolTip": "MyGameEngine\\Source\\Common\\Logger.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-15T07:12:04.564Z",
+              "WhenOpened": "2024-03-19T01:36:16.633Z",
               "EditorCaption": ""
             }
           ]

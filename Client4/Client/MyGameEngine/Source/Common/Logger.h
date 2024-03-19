@@ -16,4 +16,8 @@ public:
 	static VOID PrintLog(const WCHAR* fmt, ...); //정적 무효 유형 함수
 	static std::wstring LogDirectory();
 	static std::wstring LogFile();
+
+	static VOID PrintDebugSeperator();
+	static BOOL IsMTailRunning();
+	static VOID StartMTail();
 };
